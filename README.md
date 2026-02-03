@@ -35,7 +35,7 @@ Alur datanya:
 ```bash
 chmod +x iot_monitoring.sh
 sudo ./iot_monitoring.sh
-```bash
+```
 
 Bukan script paling canggih, tapi cukup untuk memulai dengan rapi.  
 Dari sini, kamu bebas mengembangkannya ke arah mana pun.
