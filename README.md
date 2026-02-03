@@ -28,6 +28,7 @@ The components included are:
 - **Telegraf** as the data bridge
 
 The data flow looks like this:
+
 ![Technology-Stack](https://github.com/user-attachments/assets/0aa19c6d-d605-4c14-8cec-638110711ad4)
 
 ## Quick Usage
