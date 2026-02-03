@@ -11,8 +11,6 @@ Setiap mulai proyek baru di Ubuntu, langkahnya hampir selalu sama:
 
 Script ini dibuat untuk merapikan proses itu.
 
----
-
 ## Pendekatan yang Dipakai
 
 Project ini **sengaja fokus ke Ubuntu**.  
@@ -37,6 +35,7 @@ Alur datanya:
 ```bash
 chmod +x iot_monitoring.sh
 sudo ./iot_monitoring.sh
+```bash
 
 Bukan script paling canggih, tapi cukup untuk memulai dengan rapi.  
 Dari sini, kamu bebas mengembangkannya ke arah mana pun.
